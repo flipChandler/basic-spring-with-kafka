@@ -12,7 +12,6 @@ INDEX VERSION 1.134+/home/felipe/Documents/cursos/udemy/valdir-cezar/kafka/.meta
 521634542.index
 3216904251.index
 4124043369.index
-4111535315.index
 1334154752.index
 1862521618.index
 1011775080.index
