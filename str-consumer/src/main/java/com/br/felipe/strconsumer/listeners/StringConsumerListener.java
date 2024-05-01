@@ -16,6 +16,12 @@ public class StringConsumerListener {
 		log.info("CREATE ::: Receive message {}", message);
 	}
 	
+	@StringConsumerCustomListener(groupId = "group-1")
+	public void testErrorHandler(String message) {
+		log.info("TEST_ERROR_HANDLER ::: Receive message {}", message);
+		throw new IllegalArgumentException();
+	}
+	
 	@KafkaListener(groupId = "group-2", topics = "str-topic", containerFactory = "validMessageContainerFactory")
 	public void history(String message) {
 		log.info("HISTORY ::: Receive message {}", message);
