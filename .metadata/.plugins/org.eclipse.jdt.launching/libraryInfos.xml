@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/home/felipe/Documents/programas/sts/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.9.v20231028-0858/jre" version="17.0.9"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/8.0.362-amzn" version="1.8.0_362">
+        <bootpath>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/resources.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/rt.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/sunrsasign.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/jsse.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/jce.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/charsets.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/jfr.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.362-amzn/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/16.0.1.j9-adpt" version="16.0.1"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.22"/>
+    <libraryInfo home="/home/felipe/Documents/programas/sts/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.9.v20231028-0858" version="17.0.9"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/13.0.2.j9-adpt" version="13.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/21.ea.29-open" version="21"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/11.0.2-open" version="11.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/12.0.2-open" version="12.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/17.0.2-zulu" version="17.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/15.0.2-open" version="15.0.2"/>
+    <libraryInfo home="/usr/lib/jvm/java-17-oracle" version="17.0.1"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/18.0.2-open" version="18.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/8.0.322-zulu" version="1.8.0_322">
+        <bootpath>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/resources.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/rt.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/sunrsasign.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/jsse.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/jce.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/charsets.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/jfr.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/cat.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.322-zulu/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/11.0.12-open" version="11.0.12"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/11.0.13-zulu" version="11.0.13"/>
+    <libraryInfo home="/usr/lib/jvm/java-8-openjdk-amd64" version="1.8.0_402">
+        <bootpath>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar"/>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext"/>
+            <entry path="/usr/java/packages/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/17.0.2-open" version="17.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/13.0.2-open" version="13.0.2"/>
+    <libraryInfo home="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt" version="1.8.0_292">
+        <bootpath>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/amd64/default/jclSC180/vm.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/se-service.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/rt.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/resources.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/jsse.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/charsets.jar"/>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/jce.jar"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="/home/felipe/.sdkman/candidates/java/8.0.292.j9-adpt/jre/lib/endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
