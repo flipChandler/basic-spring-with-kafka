@@ -4,4 +4,15 @@ server:
 spring:
   kafka:
     consumer:
-      bootstrap-servers: localhost:29092  
+      bootstrap-servers: localhost:29092 
+      
+app:
+  config:
+    kafka:
+      topic:
+        payment-topic: payment-topic
+      
+      group:
+        create-group: create-group
+        pdf-group: pdf-group
+        email-group: email-group       

@@ -16,7 +16,7 @@ import lombok.extern.log4j.Log4j2;
 public class JsonListener {
 	
 	@SneakyThrows
-	@KafkaListener(topics = "payment-topic", groupId = "create-group", containerFactory = "jsonContainerFactory")
+	@KafkaListener(topics = "${app.config.kafka.topic.payment-topic}", groupId = "${app.config.kafka.group.create-group}", containerFactory = "jsonContainerFactory")
 	public void antiFraud(@Payload Payment payment) {
 		log.info("Payment received {}", payment.toString());
 		Thread.sleep(2000);
@@ -29,7 +29,7 @@ public class JsonListener {
 	}
 	
 	@SneakyThrows
-	@KafkaListener(topics = "payment-topic", groupId = "pdf-group", containerFactory = "jsonContainerFactory")
+	@KafkaListener(topics = "${app.config.kafka.topic.payment-topic}", groupId = "${app.config.kafka.group.pdf-group}", containerFactory = "jsonContainerFactory")
 	public void pdfGenerator(@Payload Payment payment) {
 		Thread.sleep(3000);
 		log.info("Creating PDF from productId {} ...", payment.getId());
@@ -37,7 +37,7 @@ public class JsonListener {
 	}
 	
 	@SneakyThrows
-	@KafkaListener(topics = "payment-topic", groupId = "email-group", containerFactory = "jsonContainerFactory")
+	@KafkaListener(topics = "${app.config.kafka.topic.payment-topic}", groupId = "${app.config.kafka.group.email-group}", containerFactory = "jsonContainerFactory")
 	public void sendEmail() {
 		Thread.sleep(3000);
 		log.info("Sending confirmation email ...");
